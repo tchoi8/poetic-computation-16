@@ -1,4 +1,4 @@
-# poetic-computation-16
+# Poetic and Politics of Computation 
 
 Class at SFPC Summer 2016, June~August. 
 Tuesday 10 am ~ 12:30pm, 155 Bank street, NYC 
@@ -67,7 +67,7 @@ Benjamin H. Bratton
 - [Frontiers of Justice: Disability, Nationality, Species Membership](http://www.hup.harvard.edu/catalog.php?isbn=9780674024106) by Martha Nussbaum,  
 - Prompt: Make your art accessible to blind and deaf audience  
 
-#8. Pedagogy 
+##8. Pedagogy 
 
 - Lecture: Unlearning
 - [Pedagogy of the oppressed](https://en.wikipedia.org/wiki/Pedagogy_of_the_Oppressed) by Paulo Freire
