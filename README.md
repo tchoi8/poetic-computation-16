@@ -1,4 +1,4 @@
-# Poetic and Politics of Computation 
+# Poetics and Politics of Computation 
 
 Class at SFPC Summer 2016, June~August. 
 Tuesday 10 am ~ 12:30pm, 155 Bank street, NYC 
@@ -55,7 +55,7 @@ Benjamin H. Bratton
 ##6. Gender and body politics 
 
 - Lecture: Performing participation
-- [The Real World of Technology](The Real World of Technology) by Ursula le Guin
+- [The Real World of Technology](http://aworkinglibrary.com/reading/real-world-of-technology/) by Ursula M. Franklin
 - [Examined Life](https://www.youtube.com/watch?v=k0HZaPkF6qE) by Astra Taylor. Judith Butler, in conversation with Sunaura Taylor, describes disability as the ‘social organization of impairment’ and that the word can be used as social repression of certain people. 
 - [Lygia Clark: The Abandonment of Art, 1948–1988](http://www.moma.org/lygiaclark) at MoMA 
 - [The Normal and the Pathological](https://monoskop.org/images/b/b6/Canguilhem_Georges_The_Normal_and_the_Pathologic_1991.pdf) by Georges Canguilhem
@@ -64,7 +64,7 @@ Benjamin H. Bratton
 ##7. Accessibility and diversity 
 
 - Lecture: Capability and potentiality 
-- [Frontiers of Justice: Disability, Nationality, Species Membership](http://www.hup.harvard.edu/catalog.php?isbn=9780674024106) by Martha Nussbaum,  
+- [Frontiers of Justice: Disability, Nationality, Species Membership](http://www.hup.harvard.edu/catalog.php?isbn=9780674024106) by Martha Nussbaum  
 - Prompt: Make your art accessible to blind and deaf audience  
 
 ##8. Pedagogy 
