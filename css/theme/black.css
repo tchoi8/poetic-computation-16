@@ -224,10 +224,11 @@ body {
  * IMAGES
  *********************************************/
 .reveal section img {
-  margin: 15px 0px;
-  background: rgba(255, 255, 255, 0.12);
-  border: 4px solid #fff;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); }
+
+background:none;
+border:none;
+box-shadow:none;
+}
 
 .reveal section img.plain {
   border: 0;
@@ -239,9 +240,10 @@ body {
   transition: all .15s linear; }
 
 .reveal a:hover img {
-  background: rgba(255, 255, 255, 0.2);
-  border-color: #42affa;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.55); }
+  background:none;
+  border:none;
+  box-shadow:none;
+}
 
 /*********************************************
  * NAVIGATION CONTROLS
