@@ -32,7 +32,7 @@ Memory](https://aestech.wikischolars.columbia.edu/file/view/Hui+Kyong+Chun--the_
 
 - Lecture: What is the New weapon? 
 - [24/7: Late Capitalism and the Ends of Sleep](https://www.versobooks.com/books/1570-24-7) by Jonathan Crary 
-- [Postscript on the Societies of Control](https://cidadeinseguranca.files.wordpress.com/2012/02/deleuze_control.pdf) by Gilles Delueze
+- [Postscript on the Societies of Control](https://cidadeinseguranca.files.wordpress.com/2012/02/deleuze_control.pdf) by Gilles Deleuze
 - Prompt: Plan a week without google
 
 
