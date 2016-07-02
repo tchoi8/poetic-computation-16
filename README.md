@@ -51,8 +51,8 @@ Benjamin H. Bratton
 ##5. Translation and interpretation
 
 - Lecture: Excerpts from Concepts and Theory
-- [Poetics of Relation](https://www.press.umich.edu/10262/poetics_of_relation) by Édouard Glissant
-- The Task of the Translator by Walter Benjamin. Excerpt p 70 (Translation is a mode.) ~ p 77 (Its products are less sharply defined, but it leaves no less of a mark on history.)  
+- Concerning the Poem's Information, [Poetics of Relation](https://www.press.umich.edu/10262/poetics_of_relation) by Édouard Glissant
+- The Task of the Translator by Walter Benjamin. Illuminations, Excerpt p 70 (Translation is a mode.) ~ p 77 (Its products are less sharply defined, but it leaves no less of a mark on history.)  
 - Reference: Towards a Semiology of Paragrams by Julia Kristeva
 - [Samgsung means to come](http://www.yhchang.com/SAMSUNG_MEANS_TO_COME.html) by Young-Hae Chang Heavy Industries  
 - [Dispersion](http://www.distributedhistory.com/Dispersion2016.pdf) by Seth Price
