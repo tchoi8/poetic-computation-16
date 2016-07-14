@@ -24,20 +24,19 @@ The list itself is open-ended and has undergone modification over time; no doubt
 
 7. *Affiliation*. 
 
-A. Being able to live with and toward others, to recognize and show concern for other human beings, to engage in various forms of social interaction; to be able to imagine the situation of another. (Protecting this capability means protecting institutions that constitute and nourish such forms of affiliation, and also protecting the freedom of assembly and political speech.) 
+	A. Being able to live with and toward others, to recognize and show concern for other human beings, to engage in various forms of social interaction; to be able to imagine the situation of another. (Protecting this capability means protecting institutions that constitute and nourish such forms of affiliation, and also protecting the freedom of assembly and political speech.) 
 
-B. Having the social bases of self-respect and nonhumiliation; being able to be treated as a dignified being whose worth is equal to that of others. This entails provisions of nondiscrimination on the basis of race, sex, sexual orientation, ethnicity, caste, religion, national origin. 
+	B. Having the social bases of self-respect and nonhumiliation; being able to be treated as a dignified being whose worth is equal to that of others. This entails provisions of nondiscrimination on the basis of race, sex, sexual orientation, ethnicity, caste, religion, national origin. 
 
 8. *Other Species*. Being able to live with concern for and in relation to animals, plants, and the world of nature. 
-
 
 9. Play. Being able to laugh, to play, to enjoy recreational activities.
 
 10. *Control* over One’s Environment. 
 
-A. *Political*. Being able to participate effectively in political choices that govern one’s life; having the right of political participation, protections of free speech and association. 
+	A. *Political*. Being able to participate effectively in political choices that govern one’s life; having the right of political participation, protections of free speech and association. 
 
-B. *Material*. Being able to hold property (both land and movable goods), and having property rights on an equal basis with others; having the right to seek employment on an equal basis with others; having the freedom from unwarranted search and seizure. In work, being able to work as a human being, exercising practical reason and entering into meaningful relationships of mutual recognition with other workers. 
+	B. *Material*. Being able to hold property (both land and movable goods), and having property rights on an equal basis with others; having the right to seek employment on an equal basis with others; having the freedom from unwarranted search and seizure. In work, being able to work as a human being, exercising practical reason and entering into meaningful relationships of mutual recognition with other workers. 
 
 
 The basic idea is that with regard to each of these, we can argue, by imagining a life without the capability in question, that such a life is not a life worthy of human dignity.  The argument in each case is based on imagining a form of life; it is intuitive and discursive. Nonetheless, I believe that the process, and the list, can gather broad cross-cultural agreement, similar to the international agreements that have been reached concerning basic human rights. Indeed, the capabilities approach is, in my view, one species of a human rights approach, and human rights have often been linked in a similar way to the idea of human dignity. The capabilities approach is fully universal: the capabilities in question are held to be important for each and every citizen, in each and every nation, and each person is to be treated as an end. The approach is in this way similar to the international human rights approach; indeed I view the capabilities approach as one species of a human rights approach. Arguing in favor of a set of cross-cultural norms and against the positions of cultural relativists has been an important dimension of the approach. But it is also crucial to stress that the approach builds in an important place for the norm of respect for pluralism, and this in six ways. 
