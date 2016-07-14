@@ -8,7 +8,9 @@ pg 76-81
 
 ##The Central Human Capabilities
 
-The list itself is open-ended and has undergone modification over time; no doubt it will undergo further modification in the light of criticism. But here is the current version. The Central Human Capabilities 
+The list itself is open-ended and has undergone modification over time; no doubt it will undergo further modification in the light of criticism. But here is the current version. 
+
+*The Central Human Capabilities* 
 
 1. *Life*. Being able to live to the end of a human life of normal length; not dying prematurely, or before one’s life is so reduced as to be not worth living. 
 
