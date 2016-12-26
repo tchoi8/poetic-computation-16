@@ -5,7 +5,7 @@ Tuesday 10 am ~ 12:30pm, 155 Bank street, NYC
 
 Instructor: Taeyoon Choi.
 
-Master slides can be found here [tchoi8.github.io/poetic-computation-16](tchoi8.github.io/poetic-computation-16)
+Master slides can be found here [tchoi8.github.io/poetic-computation-16](https://tchoi8.github.io/poetic-computation-16/)
 
 “Poetics and politics of computation” is a class for students to build conceptual tools and critical lens for artistic work with technology.  
 
