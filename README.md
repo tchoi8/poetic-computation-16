@@ -35,6 +35,7 @@ Memory](https://aestech.wikischolars.columbia.edu/file/view/Hui+Kyong+Chun--the_
 ##3. Privacy and surveillance
 
 - Lecture: What is the New weapon?
+- [Lecture3 transcription](https://github.com/tchoi8/poetic-computation-16/blob/master/lectures/lecture3.md)
 - [24/7: Late Capitalism and the Ends of Sleep](https://www.versobooks.com/books/1570-24-7) by Jonathan Crary
 - [Postscript on the Societies of Control](https://cidadeinseguranca.files.wordpress.com/2012/02/deleuze_control.pdf) by Gilles Deleuze
 - Prompt: Plan a week without google

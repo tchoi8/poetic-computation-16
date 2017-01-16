@@ -6,7 +6,8 @@
 - Special guest: [Francis Tseng](http://frnsys.com/)
  
 
-In this lecture, I examine the concept of Control Society to think about the management of contemporary time and space. I ask the students if it is possible to imagine a New Weapon from subverting the mechanism of surveillance. 
+In this lecture, I examine the concept of Control Society to think about the management of contemporary time and space. I ask the students if it is possible to imagine a ‘New Weapon’ by subverting the mechanisms of surveillance. 
+
 
 ##Call center, border control, casino 
 
@@ -23,7 +24,7 @@ Geoff Manaugh, a writer and architectural theorist who runs the building blog, t
 
 I think we are all familiar with Foucault’s critique of panopticon, a place where the central eye and since the subjects don’t know when they are being watched they are always internalizing the control. This model was very predominant from the nineteenth-century onward, Millbank Prison is a good example of an actual structure that was built with this protocol. You can see that it is a multiple panel within the same structure. You can see in the 1821 floor pln that this isn’t just about architecture, but that this is a statement. It is a statement about how we are disciplining the society. This is a place where they kept a lot of prisoners before they sent them away to Australia, for example. What is frightening is that a hundred years later, the same mechanics are in place with the Pentagon. The Pentagon started construction in 1941 and you can see that it is panopticons within panopticons. It is different layers that are very tightly knit to create this systems of control. I talked about von Neumann as the CPU architect and the person who wanted to bomb Kyoto instead of Hiroshima because that would have a greater effect on Japan because of the cultural heritage of the place. This is the Manhattan Project and beginning of nuclear warfare, not an end to WWII but the beginning of the Cold War. We can begin to think of these wars as continual processes of domination through technology. The Pentagon, in a sense, the Manhattan project was beginning to be developed right on the sight, they were beginning to think of the larger systems of control that would go beyond WWII. 
 
-Deleuze is not a technical philosopher, he is more of a cartographer, he looks at how systems of repetition and abstraction creates a cultural landscape. He is probably most known for this notion of rhizomatic systems of control. This specific text is a very special writing, written towards the end of his life, and he changes his notion of the radical restructuring of the world to examining the systems of control that we have. He shifts the notion from mechanical control to this notion of code. Recently, within the past five years, there is a renewed interest in this specific text because of the dominance that code has in our daily life.
+Deleuze is not a technical philosopher, he is more of a cartographer of technologies, he looks at how systems of repetition and abstraction creates a cultural landscape. He is probably most known for this notion of rhizomatic systems of control. This specific text is a very special writing, written towards the end of his life, and he changes his notion of the radical restructuring of the world to examining the systems of control that we have. He shifts the notion from mechanical control to this notion of code. Recently, within the past five years, there is a renewed interest in this specific text because of the dominance that code has in our daily life.
 
 ##Control Society 
 
@@ -52,8 +53,16 @@ Building from Crary and Deleuze's concepts, we can think of the society of contr
 
 ##Utopia as such
 
- 
-Utopia means a place of no place. It is a place that we cannot go. Utopia has value as a direction for society, but utopia as a destination is not a realistic notion. There have been great works of literature and art that explored the concept of utopia. However, a utopia does not exist as a reality. Let’s talk about utopia in terms of periodization. Does anyone know what Locative media means? Locative media is another word for location-based media. It was a popular term around 2003 when GPS became readily available to consumers and companies like Nokia were supporting artist experiments with their technologies. I started working with technology around that time, and everyone, including myself, was excited about locative media. For a few years, it felt like if I put GPS on anything and it will be a new media art. Also, there was a sense of utopian narrative around the locative media, a possibility for different way of creating public space and common resource.  As a society, we like to distinguish the present from the past, and we strive to connect with the near future. We love giving a name to a period; The Gutenberg era, The digital era and so on. In this periodization, there is usually a notion of optimism–new technology will bring new solutions to the problems that we have had for a long time. However, there is a pattern of excitement and disappointment that coincides with periodization. It begins like the very bright California sunshine, the progress in technology will lead to progress in society. The reality is that marketing strategies drive most of the optimism. And the responsibilities awaits us, just as in the case of the planned obsolescence. 
+Utopia is a place of no place, it is a place that we cannot go, in Thomas Moore and many others imagined. Contemporary artists often consider Utopia as a direction, as in Steve Lamber’s poster provocatives. Is utopia as a destination not a realistic notion? Utopia, as a concept, has been a great source of inspiration for many artists. 
+
+
+Instead of thinking about utopia as a place, let’s think about utopia in terms of periodization. Does anyone know what locative media means? 
+
+
+
+(No answer) 
+
+Locative media is another word for location based media, this is around 2002 or 2003 when gps was becoming really available to consumers and locative media was kind of this shift in media arts because places like Nokia and Sony were supporting artists using GPS. I started working with technology around that time and everyone was so obsessed with locative media, like we will put GPS on anything and it will be art. As a society we like to distinguish the present and the near future, like was is the new era? The digital era, the Gutenberg era. This usually has a notion of optimism, that new technology will bring new solutions to the problems that we have had for such a long time. But there is a pattern that happens with this discourse, it’s like this very bright california mediaology that the progress in technology will lead to progress in society. The reality is that this is very much a strong marketing strategy, but there is a cycle that happens. I think it this planned obsolescence is an effect of that. 
 
 *...it has eviscerated history, not by banning dissent, but by accelerating the opportunities and channels for critical thought to infinity and therefore making it impossible to think historically in the first place. Thus the central challenge within control society will be not simply to resist the various new nefarious control apparatuses, but to rescue history from its own consummation.* – Alexander R. Galloway, Computers and the Superfold, 2012
 
