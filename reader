@@ -1,0 +1,111 @@
+---
+title:  "What is poetic about computation?"
+pdf: "/pdfs/chapterOne.pdf"
+chapter: 1
+page: 1
+references:
+  - title: 'Sample Ref One'
+    link: 'http://www.google.com'
+    author: 'Sample Author One'
+  - title: 'Sample Ref Two'
+    link: 'http://www.google.com'
+    author: 'Sample Author Two'
+  - title: 'Sample Ref Three'
+    link: 'http://www.google.com'
+    author: 'Sample Author Three'
+  - title: 'Sample Ref Four'
+    link: 'http://www.google.com'
+    author: 'Sample Author Four'
+  - title: 'Sample Ref Five'
+    link: 'http://www.google.com'
+    author: 'Sample Author Five'
+  - title: 'Sample Ref Six'
+    link: 'http://www.google.com'
+    author: 'Sample Author Six'
+sections:
+  - title: "Introduction page 1"
+    paragraphs:
+      - text: " Greetings. Welcome to the first class of <B>Poetics</B> and Politics of Computation at the SFPC. <BR> I’d like to begin the class by asking What is poetic computation? First, there is the poetics of code, which refers to code as a form of poetry. There is something poetic about code itself, the way that syntax works, 
+
+      <OL>
+        <LI>1. First row
+        <LI>2. Second row
+      </OL>
+      the way that repetitions work, and the way that instruction becomes execution through abstraction. There is also what I call the poetic effect of code, which is an aesthetic experience realized through code. In other words, when the mechanics of words are in the right place, the language transcends its constraints and rules, and in turn, creates this poetic effect whereby thought is transformed into experience." 
+
+      - text: " 
+      <BLOCKQUOTE>Together, the poetics of code and the <br> poetic effect of code form ‘poetic computation.’ The terms code and </BLOCKQUOTE>computation are often used interchangeably, but I should note that code is only one aspect of computation. Code is a series of instruction for computation that requires logical systems and often times hardware to make the instructions computable. In that sense, computation is a higher level concept than code. For our purposes, however, we can use poetics of code and poetics of computation interchangeably throughout these discussions. To a non-coder, non-artist friend, or to those just beginning to learn to program, I often say code may look like poetry in an alien language. And to those more experienced with code, writing code sometimes feels like writing poetry because it doesn’t always ‘work.’ I mean two things by ‘work’: first, does it work as an art form? Is it good poetry? On the other hand, I mean ‘work’ in a more utilitarian sense. Does it have practical application?"
+
+        inlineImage: 
+          - src: "halley.jpg"
+            caption: "this is a sample in line image"
+        citations: 
+          - text: "these discussions. To a non-coder, non-artist friend, or to those just beginning to learn to program, I often say code may look like poetry in an alien language. And to those more experienced with code, writing code sometimes feels like writing poetry because it doesn’t always ‘work.’ I mean two things by ‘work’: first, does i"
+            author: "This is the person who this is by"
+            preview: "Sample Citation One"
+          - text: "uaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt offici "
+            author: "This is the person who this is by"
+            preview: "<a href='/images' class='link'>Sample Citation Two</a>"
+     
+      - text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa."
+        image: 
+          - src: "sample2.png"
+            caption: "what do you have to say for"
+      - text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur, ad recusandae sequi, molestiae ipsa quaerat. Ipsa nemo officia id consectetur voluptas ut magnam, a enim possimus commodi! Velit, consectetur, in. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa."
+        sketch:
+          - src: "/scripts/sketches/ex1.js"
+            caption: "Our first sample sketch hahaha"
+            description: "This is all the content for the sample sketch ayyyyy"
+      - text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa totam quaerat rerum maiores odit provident laudantium, consectetur quod? Quisquam harum magni officiis aliquam distinctio nam placeat similique nihil ratione voluptatibus! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa."
+        citations: 
+          - text: "Sample Citation One, I think that this is the long form content that goes here and heere we go"
+            author: "Another Person"
+            preview: "A noter sam ple "
+          - text: "Sample Citation Two, I think that this is the long form content that goes here and heere we go"
+            author: "Me"
+            preview: "Finally this one"
+      - text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia consequuntur inventore, a ad quod dignissimos vel architecto ipsum saepe tempora placeat, eum iusto nemo harum exercitationem! Voluptate, mollitia voluptatibus aut. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa."
+        inlineImage: 
+          - src: "sample2.png"
+            caption: "this is a sample in line image"
+      - text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia consequuntur inventore, a ad quod dignissimos vel architecto ipsum saepe tempora placeat, eum iusto nemo harum exercitationem! Voluptate, mollitia voluptatibus aut. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa."
+      - text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia consequuntur inventore, a ad quod dignissimos vel architecto ipsum saepe tempora placeat, eum iusto nemo harum exercitationem! Voluptate, mollitia voluptatibus aut. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa."
+  - title: "Genealogy of computers"
+    paragraphs:
+      - text: "The first computers were human. Long before electronic computers were invented, ‘computing’ was a profession for people who calculated and managed data. The (human) computers worked with mathematicians to execute algorithms and theories. Mathematicians would ask the (human) computers to work on the numbers. Often times, there would be multiple (human) computers working on the same algorithms in order to detect and prevent mistakes. Considering the history, it’s curious that we’ve created such a dichotomy between computers and humans these days. In a sense we are all computers (people who compute). Computers need not always be metallic, electronic or very distinct from us. Computer scientists, among others, may be wary of my broad definition of computers, but I like to think computers are whenever a logical way of thinking is applied to a given problem."
+        citations: 
+          - text: "Programmers of ENIAC, 1946: Via @ Philly Voice]"
+
+            author: "This is the person who this is by"
+            preview: "Sample Citation One"
+          - text: "Sample Citation Two, I think that this is the long form content that goes here and heere we go"
+            author: "This is the person who this is by"
+            preview: "Sample Citation Two"
+        image: 
+          - src: "sample.png"
+            caption: "what do you have to say for"
+      - text: "We can trace the evolution of contemporary computers from operations research around World War II to management science in the second half of the 20th century. Operations research mainly focused on calculations for ballistic missiles and planning logistics for moving large numbers of troops at the same time, while management science, which grew out of operations research, included anything from accounting to quantitative research. Actually, much of the software we use today, such as Microsoft Excel and Word, Gmail and Facebook, share a distant lineage to both.
+."
+        image: 
+          - src: "sample2.png"
+            caption: "what do you have to say for"
+      - text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur, ad recusandae sequi, molestiae ipsa quaerat. Ipsa nemo officia id consectetur voluptas ut magnam, a enim possimus commodi! Velit, consectetur, in. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa."
+      - text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa totam quaerat rerum maiores odit provident laudantium, consectetur quod? Quisquam harum magni officiis aliquam distinctio nam placeat similique nihil ratione voluptatibus! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa."
+        citations: 
+          - text: "Sample Citation One, I think that this is the long form content that goes here and heere we go"
+            author: "Another Person"
+            preview: "A noter sam ple "
+          - text: "Sample Citation Two, I think that this is the long form content that goes here and heere we go"
+            author: "Me"
+            preview: "Finally this one"
+
+      - text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia consequuntur inventore, a ad quod dignissimos vel architecto ipsum saepe tempora placeat, eum iusto nemo harum exercitationem! Voluptate, mollitia voluptatibus aut. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa."
+      - text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia consequuntur inventore, a ad quod dignissimos vel architecto ipsum saepe tempora placeat, eum iusto nemo harum exercitationem! Voluptate, mollitia voluptatibus aut. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa."
+      - text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia consequuntur inventore, a ad quod dignissimos vel architecto ipsum saepe tempora placeat, eum iusto nemo harum exercitationem! Voluptate, mollitia voluptatibus aut. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa."
+      - text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia consequuntur inventore, a ad quod dignissimos vel architecto ipsum saepe tempora placeat, eum iusto nemo harum exercitationem! Voluptate, mollitia voluptatibus aut. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa."
+      - text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia consequuntur inventore, a ad quod dignissimos vel architecto ipsum saepe tempora placeat, eum iusto nemo harum exercitationem! Voluptate, mollitia voluptatibus aut. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa."
+      - text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia consequuntur inventore, a ad quod dignissimos vel architecto ipsum saepe tempora placeat, eum iusto nemo harum exercitationem! Voluptate, mollitia voluptatibus aut. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa."
+      - text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia consequuntur inventore, a ad quod dignissimos vel architecto ipsum saepe tempora placeat, eum iusto nemo harum exercitationem! Voluptate, mollitia voluptatibus aut. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa."
+      - text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia consequuntur inventore, a ad quod dignissimos vel architecto ipsum saepe tempora placeat, eum iusto nemo harum exercitationem! Voluptate, mollitia voluptatibus aut. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt officiis ea magnam expedita hic quaerat quos, non, facilis alias accusamus nisi nemo eveniet facere animi voluptate, dignissimos perspiciatis ipsa."
+
+---
